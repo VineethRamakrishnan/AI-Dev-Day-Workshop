@@ -62,7 +62,7 @@ Different file types need different rules	              Use .claude/rules/ with 
 ---
 
 ### **Key Commands Reference**
-**Command	Purpose**
+**Command	Purpose** [TODO:Table]
 
 claude	Start Claude Code
 claude -p "prompt"	Non-interactive mode (scriptable)
@@ -86,7 +86,8 @@ Esc	Stop Claude mid-action
 !command	Run bash without leaving Claude
 
 ---
-Feedback
+### Feedback
+
 We'd love to hear how this workshop worked for you. Please share:
 
 What worked well
@@ -95,7 +96,7 @@ Features you'd like to explore further
 
 
 ---
-Thank You
+### Thank You
 You've progressed from running your first Claude Code command to orchestrating parallel workflows at scale. The skills you learned today apply to any codebase, any language, and any development workflow.
 
 The most important takeaway: Claude Code gets better the more you invest in teaching it your project. Start with CLAUDE.md, add skills and hooks as patterns emerge, and let the tool compound in value over time.

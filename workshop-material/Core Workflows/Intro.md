@@ -7,7 +7,7 @@ Claude Code is an agentic coding tool that reads your codebase, edits files, run
 It understands your entire project context and works across multiple files to build features, fix bugs, and automate development tasks.
 
 ---
-The Agentic Loop
+#### The Agentic Loop
 
 When you give Claude a task, it works through three phases that blend together. Claude decides what each step requires based on what it learned from the previous step, chaining dozens of actions together and course-correcting along the way.
 

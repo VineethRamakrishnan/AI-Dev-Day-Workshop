@@ -109,7 +109,7 @@ Region: us-east-1
 
 Before we move on, familiarize yourself with these essential commands:
 
-Command	What it does
+Command	What it does [TODO : Convert into the table]
 
 claude	  Start Claude Code
 Esc	      Stop Claude mid-action (context preserved)

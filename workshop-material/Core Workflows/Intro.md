@@ -31,11 +31,12 @@ The loop adapts to the task at hand. A question about your codebase might only n
 
 You're part of this loop too. You can interrupt at any point to steer Claude in a different direction, provide additional context, or ask it to try a different approach. Claude works autonomously but stays responsive to your input.
 
-**Key Mental Shift**
+##### **Key Mental Shift:**
 You describe what you want. Claude figures out how to build it — exploring, planning, and implementing autonomously.
 
 
-The Shopping Cart Project
+##### The Shopping Cart Project
+
 Your workshop environment comes pre-loaded with a Shopping Cart application — a full-stack serverless app built with Flask (backend) and React (frontend), deployed on AWS using API Gateway, Lambda, and DynamoDB.
 
 The project is located at /workshop/shopping-cart and your terminal starts there automatically.

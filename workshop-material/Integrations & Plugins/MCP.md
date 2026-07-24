@@ -122,5 +122,4 @@ What are the latest best practices for S3 bucket security?
 Using the AWS docs, what's the recommended way to set up DynamoDB TTL for cart items that should expire after 24 hours?
 ```
 
-
 MCP transforms Claude from a code-only tool into a connected platform — this server required zero setup (just a URL), and the same pattern works for GitHub, Slack, databases, and custom internal APIs.

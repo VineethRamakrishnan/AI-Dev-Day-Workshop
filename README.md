@@ -1,2 +1,2 @@
 # AI-Dev-Day-Workshop
-Basics about AI 
+Basics about AI  through workshop
